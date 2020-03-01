@@ -2,17 +2,8 @@
 This script allows you to see all blips of connected users on the map without high impact on client.
 
 How to use:
-1. plug "esx_moleyisus_blips" in your resources folder
-2. put the "start esx_moleyisus_blips" in your server.cfg after all esx scripts
-  Example:
-      start esx_policejob
-      start esx_ambulancejob
-      start esx_....
-      ...
-      ..
-      .
-      start esx_moleyisus_blips
-      
+1. Plug "esx_moleyisus_blips" in your resources folder
+2. Put the "start esx_moleyisus_blips" in your server.cfg after all esx scripts
 3. Start your server and enjoy.
 
 
